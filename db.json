@@ -1,0 +1,266 @@
+{
+  "laptops": [
+    {
+      "pprice": "52002",
+      "cname": "LENOVA updated",
+      "specifications": "120gb ROM , 10GB RAM update",
+      "id": 1
+    },
+    {
+      "pprice": "4500",
+      "cname": "Lenvo ",
+      "specifications": "15.6 inch, 8GB, 256GB, Windows 11, MS Office 2021, Intel UHD Graphic",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "pprice": "29,999",
+      "cname": "HPPPI",
+      "specifications": "15.6 inch, 8GB, 512GB, Windows 11, Intel UHD, FHD Display, Steel Grey"
+    },
+    {
+      "id": 4,
+      "pprice": "29,999",
+      "cname": "HP ",
+      "specifications": "14 inch, 8GB, 512GB, Windows 11 Home, MS Office 2021, Intel UHD Graphics"
+    },
+    {
+      "id": 5,
+      "pprice": "31,990",
+      "cname": "Lenovo ",
+      "specifications": "15.6 inch, 8GB, 256GB, Windows 11 Home, MS Office 2021, Intel UHD Graphics"
+    },
+    {
+      "id": 6,
+      "pprice": "33,494",
+      "cname": "HP ",
+      "specifications": "15 inch, 8GB, 512GB, Windows 11, MS Office 2021, AMD Radeon Graphics, Natural Silver,"
+    },
+    {
+      "id": 7,
+      "pprice": "29,999",
+      "cname": "Lenovo ",
+      "specifications": "15.6 inch, 8GB, 512GB, Windows 11 Home, MS Office 2021, Intel UHD,  Platinum Grey, "
+    },
+    {
+      "id": 8,
+      "pprice": "33,990",
+      "cname": "ASUS ",
+      "specifications": "15.6 inch, 8GB, 512GB, Windows 11, MS Office 2021, Intel UHD, "
+    },
+    {
+      "id": 9,
+      "pprice": "34,990",
+      "cname": "HP ",
+      "specifications": "14 inch, 8GB, 512GB, Windows 11 Home, Intel UHD"
+    },
+    {
+      "id": 10,
+      "pprice": "36,990",
+      "cname": "acer ",
+      "specifications": "15.6 inch, 8GB, 512GB, Windows 11 Home, AMD Radeon Graphics"
+    },
+    {
+      "pprice": "89000",
+      "cname": "canon updated",
+      "specifications": "super qulaity mega pixels",
+      "id": 11
+    }
+  ],
+  "mobiles": [
+    {
+      "pprice": "₹55,990",
+      "cname": "Apple iPhone 13",
+      "specifications": "128GB, Starlight White",
+      "id": 1
+    },
+    {
+      "pprice": "₹44,999",
+      "cname": "OnePlus 11R 5G ",
+      "specifications": "16GB RAM, 256GB, Sonic Black",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "pprice": "₹65,490",
+      "cname": "Apple iPhone 14",
+      "specifications": "128GB, Midnight"
+    },
+    {
+      "id": 4,
+      "pprice": "₹65,490",
+      "cname": "Apple iPhone 14 ",
+      "specifications": "128GB, Blue"
+    },
+    {
+      "id": 5,
+      "pprice": "₹55,990",
+      "cname": "Apple iPhone 13 ",
+      "specifications": "128GB, Midnight"
+    },
+    {
+      "id": 6,
+      "pprice": "₹65,490",
+      "cname": "Apple iPhone 14  ",
+      "specifications": "128GB, Purple,"
+    },
+    {
+      "id": 7,
+      "pprice": "₹55,990",
+      "cname": "Apple iPhone 13 ",
+      "specifications": "128GB, Starlight White "
+    },
+    {
+      "id": 8,
+      "pprice": "₹65,490",
+      "cname": "Apple iPhone 14 ",
+      "specifications": "128GB, Starlight "
+    },
+    {
+      "id": 9,
+      "pprice": "₹55,990",
+      "cname": "Apple iPhone 13 ",
+      "specifications": "128GB, Pink"
+    },
+    {
+      "id": 10,
+      "pprice": "₹75,990",
+      "cname": "Apple iPhone 14 ",
+      "specifications": "256GB, Starlight"
+    }
+  ],
+  "tv's": [
+    {
+      "pprice": "₹15,999",
+      "height": "109 cm (43 inch)",
+      "cname": "Croma ",
+      "specifications": "Full HD LED Smart TV with Bezel Less Display (2023 model)",
+      "id": 1
+    },
+    {
+      "pprice": "₹13,490",
+      "height": "81.28 cm (32 inch)",
+      "cname": "LG LM56",
+      "specifications": "HD Ready LED Smart WebOS TV with Down Firing Speaker",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "pprice": "₹5,790",
+      "height": "60 cm (24 inch)",
+      "cname": "Croma ",
+      "specifications": "1HD Ready LED TV with 16W Speaker"
+    },
+    {
+      "id": 4,
+      "pprice": "₹8,499",
+      "height": "80 cm (32 inch)",
+      "cname": "Croma ",
+      "specifications": "HD Ready LED Smart TV with Bezel Less Display (2023 model)"
+    },
+    {
+      "id": 5,
+      "pprice": "₹12,990",
+      "height": "80 cm (32 inch)",
+      "cname": "Xiaomi A Series ",
+      "specifications": "HD LED Smart Google TV with 20W Speaker"
+    },
+    {
+      "id": 6,
+      "pprice": "₹13,990",
+      "height": "80 cm (32 inch)",
+      "cname": "SAMSUNG Series 4",
+      "specifications": "HD Ready LED Smart Tizen TV with Hyper Real Picture Engine"
+    },
+    {
+      "id": 7,
+      "pprice": "₹27,999",
+      "height": "127 cm (50 inch)",
+      "cname": "acer ",
+      "specifications": "4K Ultra HD LED Google TV with Dolby Vision (2023 model) "
+    },
+    {
+      "id": 8,
+      "pprice": "₹26,999",
+      "height": "127 cm (50 inch)",
+      "cname": "Croma",
+      "specifications": "4K Ultra HD LED Smart WebOS TV (2022 model) "
+    },
+    {
+      "id": 9,
+      "pprice": "₹7,590",
+      "height": "80 cm (32 inch)",
+      "cname": "Croma ",
+      "specifications": "HD Ready LED TV with Bezel Less Display (2023 model)"
+    },
+    {
+      "id": 10,
+      "pprice": "₹22,999",
+      "height": "109 cm (43 inch)",
+      "cname": "acer ",
+      "specifications": "4K Ultra HD LED Google TV with Dolby Vision and Dolby Audio (2023 model)"
+    }
+  ],
+  "cameras": [
+    {
+      "pprice": "₹94,999",
+      "cname": "Canon EOS R10",
+      "specifications": "24.2MP Mirrorless Camera ",
+      "id": 1
+    },
+    {
+      "pprice": "₹27,490",
+      "cname": "GoPro Hero10 ",
+      "specifications": "5.3K and 23MP 60 FPS Waterproof Action Camera",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "pprice": "₹87,999",
+      "cname": "Nikon Z 50 ",
+      "specifications": "20.9MP Mirrorless Camera"
+    },
+    {
+      "id": 4,
+      "pprice": "18,894",
+      "cname": "GoPro Hero11 ",
+      "specifications": "4K Edition 12MP Action Camera"
+    },
+    {
+      "id": 5,
+      "pprice": "₹55,990",
+      "cname": "Insta360 One R ",
+      "specifications": "128GB, Midnight"
+    },
+    {
+      "id": 6,
+      "pprice": "₹58,990",
+      "cname": "Canon EOS M50  ",
+      "specifications": "24.2MP Mirrorless Camera"
+    },
+    {
+      "id": 7,
+      "pprice": "₹70,999",
+      "cname": "Canon EOS R50 ",
+      "specifications": "24.2MP Mirrorless Camera  "
+    },
+    {
+      "id": 8,
+      "pprice": "₹41,999",
+      "cname": "Canon EOS 1500D ",
+      "specifications": "24.1MP DSLR Camera  "
+    },
+    {
+      "id": 9,
+      "pprice": "₹7,499",
+      "cname": "FUJIFILM ",
+      "specifications": "Instax Mini 12 Instant Camera (Mint Green)"
+    },
+    {
+      "id": 10,
+      "pprice": "₹69,999",
+      "cname": "Nikon Z 50",
+      "specifications": "20.9MP Mirrorless Camera"
+    }
+  ]
+}
